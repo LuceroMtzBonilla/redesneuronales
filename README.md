@@ -1,1 +1,2 @@
-# redesneuronales
+# redes neuronales
+En este repositorio se encuentran los codigos de la creacion de una red neuronal basica desde cero, definiendo la funcion de costo, la funcion de activacion, asi como el proceso de forward propagation, backpropagation y el optimizador SGD y SGD con momentum para actualizar los parametros en cada epoca. Se utilizo la funcion sigmoide como funcion de activacion y se uso la funcion de costo basica, la cual se define como la norma de la diferencia entre el valor real y el valor predecido, tambien se uso la funcion de costo empleada en cross entropy.
